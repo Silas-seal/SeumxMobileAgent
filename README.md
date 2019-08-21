@@ -1,2 +1,3 @@
 # SeumxMobileAgent
-Mobile Money business application ti simplify transactions and data storage.
+Mobile Money business application to simplify transactions and data storage.
+This app is under development.
